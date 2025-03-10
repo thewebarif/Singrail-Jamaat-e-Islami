@@ -19,7 +19,10 @@
   padding-left: 32px !important;
   padding-right: 32px !important;
 }
-.p
+.single-item img {
+  height: 300px;
+  object-fit: cover;
+}
 
 }
 
