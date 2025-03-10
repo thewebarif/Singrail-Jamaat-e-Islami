@@ -1,3 +1,13 @@
+.single-item img {
+  width: 100%;
+}
+
+.hero_area .hero_bg_box {
+
+
+  height: 50%;
+}
+
 @media (max-width: 1300px) {}
 
 @media (max-width: 1120px) {}
