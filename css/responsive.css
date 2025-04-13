@@ -138,3 +138,8 @@
     max-width: 1170px;
   }
 }
+
+
+.slider_section{
+  display: block!important;
+}
